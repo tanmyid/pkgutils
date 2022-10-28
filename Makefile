@@ -20,6 +20,8 @@
 #  USA.
 #
 
+# everything i change is only in makefile hehe
+
 DESTDIR =
 BINDIR = /usr/bin
 MANDIR = /usr/share/man
